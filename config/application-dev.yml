@@ -1,0 +1,7 @@
+spring:
+  application:
+  name: rest-with-springboot
+rest-with-springboot:
+  greeting: Hello
+  default-value: World
+
